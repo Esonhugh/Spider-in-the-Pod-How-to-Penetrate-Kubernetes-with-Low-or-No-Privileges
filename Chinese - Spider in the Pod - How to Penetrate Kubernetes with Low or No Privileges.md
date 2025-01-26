@@ -145,3 +145,7 @@ coredns 的 metrics 没有特殊的东西，但是 他会默认在自己的 pod 
 ## 特别感谢
 
 1. [Bryan](https://github.com/bryanmcnulty) 在英文版文章的翻译过程中提供了很多帮助和指导。
+
+## Sponsor
+
+https://www.patreon.com/c/Skyworshiper 
