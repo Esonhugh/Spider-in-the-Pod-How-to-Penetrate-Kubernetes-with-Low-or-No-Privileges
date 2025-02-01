@@ -151,7 +151,7 @@ So, in this article, I tried to look at the risk surface that k8s may have from 
 
 ## Thanks 
 
-1. [Bryan](https://github.com/bryanmcnulty) gave me a lot of help and guidance during the translation process.
+1. [Bryan](https://github.com/bryanmcnulty) gave me a lot of help and guidance during the translation process. Also, He is a super cool hacker player on HackTheBox platform. We learnt AD and cloud together. Click his name and checkout his blog. 
 
 ## Sponsor
 
