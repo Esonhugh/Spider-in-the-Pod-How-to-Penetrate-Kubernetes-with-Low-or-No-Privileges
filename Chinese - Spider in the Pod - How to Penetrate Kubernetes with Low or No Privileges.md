@@ -144,7 +144,7 @@ coredns 的 metrics 没有特殊的东西，但是 他会默认在自己的 pod 
 
 ## 特别感谢
 
-1. [Bryan](https://github.com/bryanmcnulty) 在英文版文章的翻译过程中提供了很多帮助和指导。
+1. [Bryan](https://github.com/bryanmcnulty) 在英文版文章的翻译过程中提供了很多帮助和指导，同时，他也是很酷的 HackThebBox 黑客玩家，和我一起学习过 AD 和云。
 
 2. CSA GCR 云渗透测试工作组的成员们，他们在这个领域的研究和实践经验对我有很大的帮助，我与多位成员在 kubernetes 安全方向上的讨论，激发了我编写这篇文章的灵感。
 
